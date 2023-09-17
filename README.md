@@ -5,7 +5,7 @@ Welcome to BUAlpha, BUFC's quantitative research team.
 
 ## Introductions
 
-* How to use this GitHub
+We will be using this GitHub page to manage projects and share resources. You can feel free to check out past archived repositories for project inspirations.
 
 A list of resources can be found [here](https://github.com/bualpha/Resources).
 
