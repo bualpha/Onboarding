@@ -5,8 +5,7 @@ Welcome to BUAlpha, BUFC's quantitative research team.
 
 ## Introductions
 
-<<<<<<< HEAD
-We will be using this GitHub page to manage projects and share [resources](https://github.com/bualpha/Resources). You can feel free to check out past archived repositories for project inspirations.
+We will be using this GitHub page (@bualpha) to manage projects, give lectures, and share [resources](https://github.com/bualpha/Resources). You can feel free to check out past archived repositories for project inspirations.
 
 Below are a series of steps and info that will get you acclimated to our workflow.
 
@@ -33,13 +32,20 @@ Each project repository should include:
 * `CITATION.cff` if needed (be sure to cite your sources either here or in `README.md`)
 * Other `.md` files if needed
 
-Your code should be written so other people on the team can understand. That means salient comments and example codes (if necessary) should be included. A general rule of thumb is that you will not be embarrassed if you were to show your project to a recruiter. They do not have to be perfect, but a completed and well-organized project will go a long way, demonstrating your competency for real world projects. Featured projects can be found above.
+Your code should be written so other people on the team can understand. That means salient comments and example codes (if necessary) should be included. A general rule of thumb is that you will not be embarrassed if you were to show your projects to a recruiter. They do not have to be perfect, but a completed and well-organized project will go a long way, demonstrating your competency for real world projects. Sample past projects can be found above in this repository. (Insert submodules)
 
 #### Presentation Templates
 Templates and past presentations can be found here.
 
 ## Contacts
-* Current VP: Ryan Nie, ryanznie@bu.edu
-* Assistant VPs: 
-* Alumni board
-* BUFC email
+
+**Fall 2023**
+
+VP: \
+Ryan Nie
+
+Assistant VPs: \
+Patrick Browne, Ryan Gilbert
+
+BUFC email: \
+[buinvest@bu.edu](mailto:buinvest@bu.edu)
