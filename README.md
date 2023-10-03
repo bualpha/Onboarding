@@ -1,5 +1,5 @@
 # Onboarding
-*Last updated 9/21/2023*
+*Last updated 10/3/2023*
 
 Welcome to BUAlpha, BUFC's quantitative research team.
 
@@ -37,10 +37,25 @@ Your code should be written so other people on the team can understand. That mea
 #### Presentation Templates
 Templates and past presentations can be found here.
 
-## Contacts
+## Org chart and Responsibilities
+```
+BUFC and Alumnni
+└── VP of Quant
+    ├── Assistant VPs
+    ├── Quantitative Developers
+    │   ├── Lead Developer/Project Managers
+    │   └── Developers
+    └── Quantitative Analysts
+```
+**VP of Quant** is a member of BUFC's E-Board. They are responsible for managing the entire program, the GitHub page and the structure of quant meetings. They prepare lectures, brainteasers and puzzles for interviews. They are also responsible for coordinating with alumni and E-Board members for BUFC related events as well as quant presentations at the end of each semester.
 
-**Fall 2023**
+**Assistant VPs** are responsible for assisting the VP in a variety of tasks. This can include parsing through applications during the beginning of the semester, preparing special topics lectures for analysts, as well as coming up with ideas to improve the team. They also serve as quantitative developers and are typically project leads for projects.
 
+**Quantitative Developers** are a group of talented students who are able to demonstrate programming proficiency and working knowledge of mathematical skills through projects. They typically have prior project experiences and have completed advanced coursework in math, statistics, CS, etc. As a member of the core team, their projects have the potential to be used within the club and team. They will present their findings and projects to alumni and the rest of BUAlpha towards the end of the semester. Experience as a quantitative analyst is not required.
+
+**Quantitative Analysts** are a group of beginners with deep interests in quantitative finance. They will attend weekly lectures and practice interview style questions. Throughout the semester, they will have the opportunity to work through one or two guided projects with the VP of Quant. Though it is not a requirement, outstanding analysts can also participate in the presentations at the end of every semester. Analysts can typically only go through the program once, and are encouraged to apply as developers the following semester. It however, does not guarantee a position as quantitative developer. Failure to attend meetings is detrimental to any future applications to the team. 
+
+### Quant Board - Fall 2023
 VP: \
 Ryan Nie
 
