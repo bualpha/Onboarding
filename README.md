@@ -1,5 +1,5 @@
 # Onboarding
-*Last updated 10/3/2023*
+*Last updated 10/4/2023*
 
 Welcome to BUAlpha, BUFC's quantitative research team.
 
@@ -35,7 +35,7 @@ Each project repository should include:
 Your code should be written so other people on the team can understand. That means salient comments and example codes (if necessary) should be included. A general rule of thumb is that you will not be embarrassed if you were to show your projects to a recruiter. They do not have to be perfect, but a completed and well-organized project will go a long way, demonstrating your competency for real world projects. Sample past projects can be found above in this repository.
 
 #### Presentation Templates
-Templates and past presentations can be found here.
+Templates and past presentations can be found above under `BUAlpha_template.pptx`.
 
 ## Org chart and Responsibilities
 ```
