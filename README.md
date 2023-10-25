@@ -34,8 +34,8 @@ Each project repository should include:
 
 Your code should be written so other people on the team can understand. That means salient comments and example codes (if necessary) should be included. A general rule of thumb is that you will not be embarrassed if you were to show your projects to a recruiter. They do not have to be perfect, but a completed and well-organized project will go a long way, demonstrating your competency for real world projects. Sample past projects can be found above in this repository.
 
-#### Presentation Templates
-Templates and past presentations can be found above under `BUAlpha_template.pptx`.
+#### Presentation and Research Paper Templates
+Templates and past presentations can be found above under `BUAlpha_template.pptx`. A sample LaTeX format for research papers can be found [here](https://drive.google.com/file/d/1iX0LQYCTmboL1Qot_yCT5pDceeURxGx6/view?usp=sharing).
 
 ## Org chart and Responsibilities
 ```
