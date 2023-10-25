@@ -1,5 +1,5 @@
 # Onboarding
-*Last updated 10/4/2023*
+*Last updated 10/25/2023*
 
 Welcome to BUAlpha, BUFC's quantitative research team.
 
