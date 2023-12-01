@@ -1,5 +1,5 @@
 # Onboarding
-*Last updated 10/25/2023*
+*Last updated 12/1/2023*
 
 Welcome to BUAlpha, BUFC's quantitative research team.
 
@@ -39,7 +39,7 @@ Templates and past presentations can be found above under `BUAlpha_template.pptx
 
 ## Org chart and Responsibilities
 ```
-BUFC and Alumnni
+BUFC and Alumni
 └── VP of Quant
     ├── Assistant VPs
     ├── Quantitative Developers
@@ -47,7 +47,7 @@ BUFC and Alumnni
     │   └── Developers
     └── Quantitative Analysts
 ```
-**VP of Quant** is a member of BUFC's E-Board. They are responsible for managing the entire program, the GitHub page and the structure of quant meetings. They prepare lectures, brainteasers and puzzles for interviews. They are also responsible for coordinating with alumni and E-Board members for BUFC related events as well as quant presentations at the end of each semester.
+**VP of Quant** is a member of BUFC's E-Board. They are responsible for managing the entire program, the GitHub page and the structure of quant meetings. They prepare lectures, brainteasers and puzzles for interviews. They are also responsible for coordinating with alumni Quant Advisory Board, and E-Board members for BUFC related events including quant presentations at the end of each semester.
 
 **Assistant VPs** are responsible for assisting the VP in a variety of tasks. This can include parsing through applications during the beginning of the semester, preparing special topics lectures for analysts, as well as coming up with ideas to improve the team. They also serve as quantitative developers and are typically project leads for projects.
 
